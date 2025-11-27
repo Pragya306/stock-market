@@ -45,17 +45,17 @@ Mobile-friendly interface
 
 🛠️ Tech Stack
 Tech	Purpose
-Python	Core logic
-Streamlit	Web UI & dashboard
-Pandas / NumPy	Data processing
-Statsmodels (ARIMA)	Time-series forecasting
-Matplotlib / Plotly	Charts
+Python            	Core logic
+Streamlit       	Web UI & dashboard
+Pandas / NumPy    	Data processing
+Statsmodels(ARIMA)	Time-series forecasting
+Matplotlib/Plotly	Charts
 
 📁 Project Structure
-│── app.py                # Main Streamlit interface
-│── requirements.txt      # Dependencies
-│── README.md             # Documentation
-│── assets/banner.png     # GitHub project cover image (optional)
+│── app.py                
+│── requirements.txt      
+│── README.md           
+│── assets/banner.png    
 
 🎯 Use Cases
 
@@ -66,10 +66,5 @@ Financial Forecasting Learning
 Personal Stock Analysis
 
 Portfolio Tracking
-⭐ Show Your Support
 
-If you like this project, consider giving it a ⭐ on GitHub!
 
-Data Science / ML Practice
-
-yFinance / API	Stock data
